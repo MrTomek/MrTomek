@@ -12,9 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Osikowski.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MrTomek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MrTomek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Osikowski.pl" width="22px" style="filter: contrast(0.5);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MrTomek | Twitter" width="22px" style="filter: contrast(0.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MrTomek | LinkedIn" width="22px" style="filter: contrast(0.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MrTomek | GitLab" width="22px" style="filter: contrast(0.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
 <br />
 
@@ -39,4 +40,5 @@
 [website]: https://Osikowski.pl
 [twitter]: https://twitter.com/MrTomek_
 [linkedin]: https://linkedin.com/in/MrTomek
+[gitlab]: https://gitlab.com/MrTomek
 [webdevplaylist]: https://osikowski.pl
