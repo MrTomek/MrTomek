@@ -36,26 +36,6 @@
 
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MrTomek/portfolio-sass/issues/2) in [MrTomek/portfolio-sass](https://github.com/MrTomek/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/MrTomek/portfolio-sass/issues/2) in [MrTomek/portfolio-sass](https://github.com/MrTomek/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/MrTomek/free-developer-resources/pull/11) in [MrTomek/free-developer-resources](https://github.com/MrTomek/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/MrTomek/free-developer-resources/issues/11) in [MrTomek/free-developer-resources](https://github.com/MrTomek/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/MrTomek/free-developer-resources/pull/10) in [MrTomek/free-developer-resources](https://github.com/MrTomek/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MrTomek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MrTomek&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://Osikowski.pl
 [twitter]: https://twitter.com/MrTomek_
 [linkedin]: https://linkedin.com/in/MrTomek
