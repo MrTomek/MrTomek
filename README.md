@@ -3,13 +3,6 @@
 [![Website](https://img.shields.io/website?label=Osikowski.pl&style=for-the-badge&url=https%3A%2F%2Fosikowski.pl)](https://osikowski.pl)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrTomek_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMrTomek&screen_name=MrTomek_)
 
-## I'm a Student, and Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and companies
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing the trombone and having fun with all kinds of technology
-
 ### Connect with me:
 
 [<img align="left" alt="Osikowski.pl" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][website]
