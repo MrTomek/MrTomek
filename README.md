@@ -1,37 +1,41 @@
-### Hi there, I'm Tomasz - [MrTomek][website] 👋
+### Hi there, I'm Tomasz - [MrTomek](https://osikowski.pl) 👋
 
 [![Website](https://img.shields.io/website?label=Osikowski.pl&style=for-the-badge&url=https%3A%2F%2Fosikowski.pl)](https://osikowski.pl)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrTomek_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMrTomek&screen_name=MrTomek_)
 
 ### Connect with me:
 
-[<img align="left" alt="Osikowski.pl" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][website]
-[<img align="left" alt="MrTomek | Twitter" width="22px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />][twitter]
-[<img align="left" alt="MrTomek | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
-[<img align="left" alt="MrTomek | GitLab" width="22px" src="https://about.gitlab.com/images/logos/wm_web.svg" />][gitlab]
-
-<br />
+<p align="center">
+  <a href="https://gitlab.com/MrTomek">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  <a href="https://twitter.com/MrTomek_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/MrTomek">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+  
+  
+### GPG signature
+  
+[42993B596D7A863E5B12041EDD9C7809EC4F9A38](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-
-[website]: https://Osikowski.pl
-[twitter]: https://twitter.com/MrTomek_
-[linkedin]: https://linkedin.com/in/MrTomek
-[gitlab]: https://gitlab.com/MrTomek
-[webdevplaylist]: https://osikowski.pl
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,gitlab,php,laravel,vue,nuxtjs,regex" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,linux,docker,nginx,md" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  </a>
+</p>
