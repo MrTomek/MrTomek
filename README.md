@@ -12,7 +12,7 @@
   <a href="https://twitter.com/MrTomek_">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://linkedin.com/in/MrTomek">
+  <a href="https://linkedin.com/in/tosikowski">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
