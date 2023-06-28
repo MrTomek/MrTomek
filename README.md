@@ -20,12 +20,12 @@
   
 ### GPG signature
 <p align="center">
-  [42993B596D7A863E5B12041EDD9C7809EC4F9A38](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)
+  <a  href="[https://skillicons.dev](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)">42993B596D7A863E5B12041EDD9C7809EC4F9A38</a>
 </p>
 ### Languages and Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,gitlab,php,laravel,vue,nuxtjs,regex" />
   </a>
 </p>
