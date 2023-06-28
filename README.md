@@ -19,9 +19,9 @@
   
   
 ### GPG signature
-  
-[42993B596D7A863E5B12041EDD9C7809EC4F9A38](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)
-
+<p align="center">
+  [42993B596D7A863E5B12041EDD9C7809EC4F9A38](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)
+</p>
 ### Languages and Tools:
 
 <p align="center">
