@@ -21,7 +21,7 @@
 ### GPG signature
 
 <p align="center">
-  <a  href="[https://skillicons.dev](https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38)">42993B596D7A863E5B12041EDD9C7809EC4F9A38</a>
+  <a  href="https://keys.openpgp.org/search?q=42993B596D7A863E5B12041EDD9C7809EC4F9A38">42993B596D7A863E5B12041EDD9C7809EC4F9A38</a>
 </p>
 
 
